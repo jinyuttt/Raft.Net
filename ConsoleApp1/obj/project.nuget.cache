@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyQkmBA0tgq2kRS9bSyo6M7uolcadwb2vJz8jy5Pi188XM4a5ST3XvdvJdR1Zi1RXlgXOpublh0SQzmGOIwoiw==",
+  "success": true,
+  "projectFilePath": "E:\\study\\raft\\Raft.Net\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jinyu\\.nuget\\packages\\dbreeze\\1.114.2023.1016\\dbreeze.1.114.2023.1016.nupkg.sha512",
+    "C:\\Users\\jinyu\\.nuget\\packages\\google.protobuf\\3.25.0\\google.protobuf.3.25.0.nupkg.sha512",
+    "C:\\Users\\jinyu\\.nuget\\packages\\protobuf-net\\3.2.26\\protobuf-net.3.2.26.nupkg.sha512",
+    "C:\\Users\\jinyu\\.nuget\\packages\\protobuf-net.core\\3.2.26\\protobuf-net.core.3.2.26.nupkg.sha512",
+    "C:\\Users\\jinyu\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\jinyu\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

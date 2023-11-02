@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="RaftEmulator\UdpEmulator.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="StateMachine\!!!DBreezeScheme.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="StateMachine\!!!DBreezeScheme.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DBreeze" Version="1.114.2023.1016" />
+    <PackageReference Include="Google.Protobuf" Version="3.25.0" />
+    <PackageReference Include="protobuf-net" Version="3.2.26" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="StateMachine\AddLogEntryResult.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

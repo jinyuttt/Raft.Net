@@ -1,0 +1,12 @@
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.AssemblyInfoInputs.cache
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.AssemblyInfo.cs
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.csproj.CoreCompileInputs.cache
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.csproj.AssemblyReference.cache
+E:\study\raft\Raft.Net\RaftCore\bin\Debug\net7.0\RaftCore.deps.json
+E:\study\raft\Raft.Net\RaftCore\bin\Debug\net7.0\RaftCore.dll
+E:\study\raft\Raft.Net\RaftCore\bin\Debug\net7.0\RaftCore.pdb
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.dll
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\refint\RaftCore.dll
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\RaftCore.pdb
+E:\study\raft\Raft.Net\RaftCore\obj\Debug\net7.0\ref\RaftCore.dll
